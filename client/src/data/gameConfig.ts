@@ -64,11 +64,11 @@ export const categoryConfigs: CategoryConfig[] = [
     icon: "🏛️",
   },
   {
-    id: "historia_cultura",
-    label: "História / Cultura",
-    description: "Patrimônio cultural e histórico",
+    id: "historia",
+    label: "História",
+    description: "Patrimônio histórico",
     weight: 1.2,
-    icon: "🏛️",
+    icon: "📖",
   },
   {
     id: "idioma",
