@@ -41,7 +41,7 @@ export interface CountryScores {
   esporte: number;
   exercito: number;
   governo: number;
-  historia_cultura: number;
+  historia: number;
   idioma: number;
   localizacao: number;
   populacao: number;
