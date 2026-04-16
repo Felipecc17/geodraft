@@ -104,7 +104,7 @@ export default function AboutPage() {
               { icon: "⚽", name: "Esporte" },
               { icon: "🎖️", name: "Exército" },
               { icon: "🏛️", name: "Governo" },
-              { icon: "🏛️", name: "História / Cultura" },
+              { icon: "📖", name: "História" },
               { icon: "🗣️", name: "Idioma" },
               { icon: "📍", name: "Localização" },
               { icon: "👥", name: "População" },
