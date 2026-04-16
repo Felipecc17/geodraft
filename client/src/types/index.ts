@@ -13,7 +13,7 @@ export type Category =
   | "esporte"
   | "exercito"
   | "governo"
-  | "historia_cultura"
+  | "historia"
   | "idioma"
   | "localizacao"
   | "populacao"
